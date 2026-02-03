@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Thiago%20Polesello&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=Thiago%20Polesello&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">👋 Olá! Eu sou o Thiago</h2>
