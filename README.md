@@ -10,6 +10,8 @@
   💻 Foco em Front-end
 </p>
 
+<br>
+
 ## 🌟 Sobre mim
 - 🎂 2008 | Brasil 🇧🇷
 - 📚 Técnico em Desenvolvimento de Sistemas – IFSC
