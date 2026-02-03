@@ -28,20 +28,7 @@
 
 <br>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagopoles&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopoles&layout=compact&theme=tokyonight"/>
-</p>
 
-<br>
-
-## 📌 Repositórios em destaque
-<p align="center">
-  <a href="https://github.com/thiagopoles/Curso-2026-DesenvolvimentoWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagopoles&repo=Curso-2026-DesenvolvimentoWeb&theme=tokyonight"/>
-  </a>
-</p>
 
 <br>
 
