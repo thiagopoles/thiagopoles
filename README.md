@@ -28,7 +28,17 @@
 
 <br>
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagopoles&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopoles&layout=compact&theme=tokyonight)
+
+## 📌 Repositórios em destaque
+
+- 🔹 [Curso-2026-DesenvolvimentoWeb](https://github.com/thiagopoles/Curso-2026-DesenvolvimentoWeb)
+- 🔹 [2025-1-Thiago-Polesello-Prog3](https://github.com/thiagopoles/2025-1-Thiago-Polesello-Prog3)
+- 🔹 [2024-2-Thiago_Polesello-Prog2](https://github.com/thiagopoles/2024-2-Thiago_Polesello-Prog2)
 
 <br>
 
