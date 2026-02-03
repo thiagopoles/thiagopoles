@@ -31,7 +31,7 @@
 ## 📌 Repositórios em destaque
 
 - 🔹 [Curso-2026-DesenvolvimentoWeb](https://github.com/thiagopoles/Curso-2026-DesenvolvimentoWeb)
-- 🔹 [2025-1-Thiago-Polesello-Prog4](https://github.com/thiagopoles/2025-2-Thiago-Polesello-Prog4)
+- 🔹 [2025-1-Thiago-Polesello-Prog4](https://github.com/thiagopoles/2025-2-thiago_polesello-prog4)
 - 🔹 [2025-1-Thiago-Polesello-Prog3](https://github.com/thiagopoles/2025-1-Thiago-Polesello-Prog3)
 - 🔹 [2024-2-Thiago_Polesello-Prog2](https://github.com/thiagopoles/2024-2-Thiago_Polesello-Prog2)
 
