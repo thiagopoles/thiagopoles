@@ -20,8 +20,8 @@
 - 🚀 Objetivo: Criar interfaces organizadas, modernas e funcionais
 
 ## 🛠️ Tecnologias
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,github,vscode,ts" />
 </p>
 
 ## 📊 GitHub Stats
