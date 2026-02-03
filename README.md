@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Thiago%20Polesello&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=160&section=header&text=Thiago%20Polesello&fontSize=30&fontColor=ffffff" />
 </p>
 
 <h2 align="center">👋 Olá! Eu sou o Thiago</h2>
@@ -19,10 +19,14 @@
 - 💡 Interesses: HTML, CSS, JavaScript, Hardware
 - 🚀 Objetivo: Criar interfaces organizadas, modernas e funcionais
 
+<br>
+
 ## 🛠️ Tecnologias
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php,github,vscode" />
 </p>
+
+<br<
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -30,12 +34,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopoles&layout=compact&theme=tokyonight"/>
 </p>
 
+<br>
+
 ## 📌 Repositórios em destaque
 <p align="center">
   <a href="https://github.com/thiagopoles/Curso-2026-DesenvolvimentoWeb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagopoles&repo=Curso-2026-DesenvolvimentoWeb&theme=tokyonight"/>
   </a>
 </p>
+
+<br>
 
 ## 📫 Contato
 - 📧 Email: thiagopolesello4091@gmail.com
