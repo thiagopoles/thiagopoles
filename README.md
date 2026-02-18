@@ -16,7 +16,7 @@
 - 🎂 2008 | Brasil 🇧🇷
 - 📚 Técnico em Desenvolvimento de Sistemas – IFSC
 - 🎯 Foco: Front-end
-- 💡 Interesses: HTML, CSS, JavaScript, Hardware
+- 💡 Interesses: HTML, CSS, Design, Hardware
 - 🚀 Objetivo: Criar interfaces organizadas, modernas e funcionais
 
 <br>
