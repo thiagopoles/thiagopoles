@@ -23,7 +23,7 @@
 
 ## 🛠️ Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,github,vscode,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,github,vscode" />
 </p>
 
 <br>
