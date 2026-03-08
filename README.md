@@ -21,9 +21,9 @@
 
 <br>
 
-## 🛠️ Tecnologias
+## 🛠️ Técnologias que Aprendi ao Decorrer dos Cursos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,arduino,php,github,vscode" />
 </p>
 
 <br>
