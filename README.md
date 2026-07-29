@@ -21,7 +21,7 @@
 
 <br>
 
-## 🛠️ Técnologias que Aprendi ao Decorrer dos Cursos
+## 🛠️ Tecnologias que Aprendi ao Decorrer dos Cursos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,arduino,php,github,vscode" />
 </p>
@@ -32,6 +32,7 @@
 - [Curso-2026-DesenvolvimentoWeb](https://github.com/thiagopoles/Curso-2026-DesenvolvimentoWeb)
 - [2025-1-Thiago-Polesello-Prog4](https://github.com/thiagopoles/2025-2-thiago_polesello-prog4)
 - [2025-1-Thiago-Polesello-Prog3](https://github.com/thiagopoles/2025-1-Thiago-Polesello-Prog3)
+- [Sistema para Pizzaria](https://github.com/BarbMari/Engenharia-de-Software-II)
 
 <br>
 
