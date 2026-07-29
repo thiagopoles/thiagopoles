@@ -12,7 +12,7 @@
 
 <br> <br>
 
-## 🌟 Sobre mim
+## Sobre mim
 - 📚 Técnico em Desenvolvimento de Sistemas – IFSC
 - 🎯 Foco: Front-end
 - 💡 Interesses: HTML, CSS, Design, Hardware
