@@ -13,7 +13,6 @@
 <br> <br>
 
 ## 🌟 Sobre mim
-- 🎂 2008 | Brasil 🇧🇷
 - 📚 Técnico em Desenvolvimento de Sistemas – IFSC
 - 🎯 Foco: Front-end
 - 💡 Interesses: HTML, CSS, Design, Hardware
@@ -29,10 +28,10 @@
 <br>
 
 ## 📌 Repositórios em destaque
-- [Curso-2026-DesenvolvimentoWeb](https://github.com/thiagopoles/Curso-2026-DesenvolvimentoWeb)
-- [2025-1-Thiago-Polesello-Prog4](https://github.com/thiagopoles/2025-2-thiago_polesello-prog4)
-- [2025-1-Thiago-Polesello-Prog3](https://github.com/thiagopoles/2025-1-Thiago-Polesello-Prog3)
-- [Sistema para Pizzaria](https://github.com/BarbMari/Engenharia-de-Software-II)
+- [Curso de Desenvolvimento Web](https://github.com/thiagopoles/Curso-2026-DesenvolvimentoWeb)
+- [Arduino UNO e Banco de Dados](https://github.com/thiagopoles/2025-2-thiago_polesello-prog4)
+- [Projeto de HTML, CSS e JS](https://github.com/thiagopoles/2025-1-Thiago-Polesello-Prog3)
+- [Sistema de Gerenciamento para Pizzaria](https://github.com/BarbMari/Engenharia-de-Software-II)
 
 <br>
 
